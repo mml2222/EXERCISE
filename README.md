@@ -1,2 +1,4 @@
 # EXERCISE
-EXERCISE: Test Yourself
+#### EXERCISE: Test Yourself
+
+Practicing using GitHub!   
